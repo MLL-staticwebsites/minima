@@ -1,0 +1,2 @@
+# minima
+jekyll basic theme
